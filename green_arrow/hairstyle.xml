@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HairStyleData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <HideHeadphones>false</HideHeadphones>
+  <FrontHairStyle>
+    <Offset>
+      <X>222</X>
+      <Y>100</Y>
+    </Offset>
+    <Gravity>
+      <X>0</X>
+      <Y>1.75</Y>
+    </Gravity>
+    <StaticSpriteArea>
+      <X>0</X>
+      <Y>0</Y>
+      <Width>87</Width>
+      <Height>85</Height>
+      <Location>
+        <X>0</X>
+        <Y>0</Y>
+      </Location>
+    </StaticSpriteArea>
+    <HairLocks />
+  </FrontHairStyle>
+  <BackHairStyle>
+    <Offset>
+      <X>732</X>
+      <Y>100</Y>
+    </Offset>
+    <Gravity>
+      <X>0</X>
+      <Y>1.75</Y>
+    </Gravity>
+    <StaticSpriteArea>
+      <X>0</X>
+      <Y>0</Y>
+      <Width>0</Width>
+      <Height>0</Height>
+      <Location>
+        <X>0</X>
+        <Y>0</Y>
+      </Location>
+    </StaticSpriteArea>
+    <HairLocks />
+  </BackHairStyle>
+</HairStyleData>
